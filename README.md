@@ -86,6 +86,11 @@ trueをかえしそれ以外はfalseをかえす
   　　　return ((abs(100 - n) <= 10) or (abs(200 - n) <= 10))
 ```
 
+###pos_neg
+###not_string
+###missing_char
+###front_back
+
 
 
 
